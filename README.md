@@ -1,5 +1,5 @@
 # WorldTelephoneFormatterJS
-A useful tool for formatting phone numbers with the correct prefix by given country code
+A useful tool for formatting phone numbers with the correct prefix by given country code in Javascript (Vanilla)
 
 Containing 252 world states prefixes!
 
